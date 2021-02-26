@@ -5,17 +5,17 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro2", "KampIntro2\KampIntro2.csproj", "{F1E5655C-4A75-4C37-B59F-C9874F2B8197}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{CBBC9486-BBFB-40F4-905F-7B5A511AD7F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{CBBC9486-BBFB-40F4-905F-7B5A511AD7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D0062024-6C98-44AB-B5DF-0C08B91513F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D0062024-6C98-44AB-B5DF-0C08B91513F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CD3942F8-7F8D-4EB7-81A5-82A19B8C5B32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CD3942F8-7F8D-4EB7-81A5-82A19B8C5B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{263162EE-AFD0-4AD2-9787-91C5EB6EC677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{263162EE-AFD0-4AD2-9787-91C5EB6EC677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2HW6", "Day2HW6\Day2HW6.csproj", "{8D34591B-804C-47CE-B73A-962BF7662241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2HW6", "Day2HW6\Day2HW6.csproj", "{8D34591B-804C-47CE-B73A-962BF7662241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{21B3686F-FB8D-4A04-8769-D9187A599BAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{21B3686F-FB8D-4A04-8769-D9187A599BAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
