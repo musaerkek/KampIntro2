@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2HW6", "Day2HW6\Day2HW6.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{21B3686F-FB8D-4A04-8769-D9187A599BAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3HW1", "Day3HW1\Day3HW1.csproj", "{7AD23174-76EE-4E4F-8A5C-BB27138E26E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{21B3686F-FB8D-4A04-8769-D9187A599BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21B3686F-FB8D-4A04-8769-D9187A599BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21B3686F-FB8D-4A04-8769-D9187A599BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD23174-76EE-4E4F-8A5C-BB27138E26E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD23174-76EE-4E4F-8A5C-BB27138E26E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD23174-76EE-4E4F-8A5C-BB27138E26E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD23174-76EE-4E4F-8A5C-BB27138E26E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
